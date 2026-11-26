@@ -1,6 +1,6 @@
 Hi there, I'm Sayma!
 
-A passionate CSE student and future Software Engineer
+A passionate CSE student 
 
 
 ---
